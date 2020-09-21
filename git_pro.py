@@ -1,2 +1,2 @@
-def hello():
-    return
+def hello():   
+    return "Hello World!"
